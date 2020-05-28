@@ -1,0 +1,8 @@
+/*
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!.gitignore
+
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
